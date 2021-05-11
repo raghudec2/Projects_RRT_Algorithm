@@ -1,1 +1,41 @@
-8884
+Read Me : Implementatation of RRT Path Planning Algorithm : 
+
+
+Steps to Execute the Program : 
+
+1.	Download the files : RRT_Main_Driver_Logic.py and RRT_Root_Logic.py
+2.	Import them in your IDE : 
+3.	The program is developed by importing random, math and pygame libraries.
+4.	Install the necessary libraries.
+5.	Debug the program  file - RRT_Main_Driver_Logic.py 
+6.	Execute the Program.
+7.	The output is show in a separate window.
+ 
+
+
+
+Program Files and Required Libraries : 
+
+File : RRT_Main_Driver_Logic.py and RRT_Root_Logic.py
+Libraries : import Math, Random, and Pygame.
+
+
+Logic : 
+
+In RRT_Main_Driver_Logic.py  Change the following parameters for
+Keying  the required dimensions, start /goal and obstacle dimensions and no of obstacles : 
+
+dimensions = (600, 1000) #Enter the Dimensions of the Map
+start = (50,50)          #Enter the Start Point Coordinates
+goal = (510, 510)        #Enter the Goal Point Coordinates
+obsdim = 50              #Enter the Obstacle Dimensions
+obsnum = 3               #input for entering the required No of Obstacles on the map
+
+
+
+
+
+
+
+
+
